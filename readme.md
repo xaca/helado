@@ -1,4 +1,4 @@
-# Helados (Manual de programación orientada a objetos)  
+# :icecream: Helados (Manual de programación orientada a objetos)  
 
 Este es un manual (cheat sheet) con la información principal sobre programación orientada a objetos, 
 con un enfoque agnostico con respecto a un lenguaje de programación. Se usa como metáfora la comida,
